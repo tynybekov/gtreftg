@@ -1,0 +1,24 @@
+.container {
+  margin: 0 auto;
+  width: 90%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: sans-serif;
+  background: #EEEEEE;
+}
+
+button:hover {
+  box-shadow: 15px 15px 30px rgba(227, 173, 73, 0.87);
+}
+
+/*# sourceMappingURL=reset.css.map */
